@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Hi there, I'm Matheus! 👋
 
 - 🔭 I’m currently working on [EVUP](https://evup.com.br/).
