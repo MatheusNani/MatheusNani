@@ -1,16 +1,20 @@
 ### Hi there 👋
 
-<!--
-**MatheusNani/MatheusNani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there, I'm Matheus! 👋
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on [EVUP](https://evup.com.br/).
+- 🌱 I’m currently learning Microsoft Azure and Unit Testing
+- 🏓 Hobby: code, read & play board games.
+- ⚡ Fun fact: I love TBBT. 😄
+- 📫 How to reach me: matheus.nani@hotmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+<details open>
+ <summary> 😇 <b>My Github Stats</b>: </summary>
+<br>
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=matheusnani&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnani&theme=calm&hide_border=true">
+</p>
+</details>
