@@ -11,8 +11,10 @@
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 <br>
-<p align = "center">
-  <img src = "https://github-readme-stats.vercel.app/api?username=matheusnani&show_icons=true&theme=calm&line_height=33&hide_border=true&count_private=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnani&theme=calm&hide_border=true">
+<p align = "center">  
+ <div>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=matheusnani&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheusnani&layout=compact&langs_count=6&theme=algolia"/>
+</div>
 </p>
 </details>
