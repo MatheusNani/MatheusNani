@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Microsoft Azure, Unit Testing
 - 🏓 Hobby: code, read & play board games.
 - ⚡ Fun fact: I love TBBT. 😄
-- 📫 How to reach me: at [E-Mail](matheus.nani@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/matheus-nani-b8649833/)
+- 📫 How to reach me: [E-Mail](matheus.nani@hotmail.com) or [LinkedIn](https://www.linkedin.com/in/matheus-nani-b8649833/)
 
 ---
 
