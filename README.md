@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus! 👋
 
-- 🔭 I’m currently working on [EVUP](https://evup.com.br/).
+- 🔭 I’m currently working @[EVUP](https://evup.com.br/).
 - 🌱 I’m currently learning Microsoft Azure and Unit Testing
 - 🏓 Hobby: code, read & play board games.
 - ⚡ Fun fact: I love TBBT. 😄
