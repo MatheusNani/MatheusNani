@@ -1,7 +1,7 @@
 ### Hi there, I'm Matheus! 👋
 
 - 🔭 I’m currently working @[EVUP](https://evup.com.br/).
-- 🌱 I’m currently learning Microsoft Azure and Unit Testing
+- 🌱 I’m currently learning Microsoft Azure | Unit Testing | Docker | Docker Compose | Kubernetes
 - 🏓 Hobby: code, read & play board games.
 - ⚡ Fun fact: I love TBBT. 😄
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matheus-nani-b8649833/)
