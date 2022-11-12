@@ -1,6 +1,6 @@
 ### Hi there, I'm Matheus! 👋
 
-- 🔭 I’m currently working @[EVUP](https://evup.com.br/).
+- 🔭 I’m currently working @[New Balance](https://www.newbalance.com/).
 - 🌱 I’m currently learning Microsoft Azure | Unit Testing | Docker | Docker Compose | Kubernetes
 - 🏓 Hobby: code, read & play board games.
 - ⚡ Fun fact: I love TBBT. 😄
