@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working @[New Balance](https://www.newbalance.com/).
 - 🌱 I’m currently learning Microsoft Azure | Unit Testing | Docker | Docker Compose | Kubernetes
-- 🏓 Hobby: code, read & play board games.
+- 🏓 Hobby: code, read books/mangas, puzzles and watch animes.
 - ⚡ Fun fact: I love TBBT. 😄
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/matheus-nani-b8649833/)
 
